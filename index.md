@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to my Github!
 
-You can use the [editor on GitHub](https://github.com/keener101/keener101.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a [former ecologist](http://www.pnas.org/content/112/9/2812) turned CS student. I am currently working towards finding my computer science niche.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interests
 
-### Markdown
+I have a broad range of interests:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* App Development
+* Educational Gamification
+* Data Science & Visualization
+* Web Development
+* Machine Learning & AI
+* Game Development with Unity
 
-```markdown
-Syntax highlighted code block
+### Growing Toolset
 
-# Header 1
-## Header 2
-### Header 3
+There are **a lot** of languages and tools that I'm trying to learn. Here's my current progress:
 
-- Bulleted
-- List
+- [x] Java (Proficient)
+- [x] C# (Intermediate)
+- [x] C (Beginner)
+- [x] R (Beginner)
+- [x] Unity
+- [ ] JavaScript (*In Progress*)
+- [ ] HTML 5
+- [ ] CSS 3
+- [ ] Ruby
+- [ ] Ruby on Rails
+- [ ] node.js
+- [ ] Angular
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keener101/keener101.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
