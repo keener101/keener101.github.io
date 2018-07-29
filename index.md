@@ -16,17 +16,21 @@ I have a broad range of interests:
 ### Growing Toolset
 
 There are **a lot** of languages and tools that I'm trying to learn. Here's my current progress:
-**
+
+Languages
 - [x] Java (Proficient)
 - [x] C# (Intermediate)
 - [x] C (Beginner)
 - [x] R (Beginner)
-- [x] Unity
 - [ ] JavaScript (*In Progress*)
 - [ ] HTML 5
 - [ ] CSS 3
 - [ ] Ruby
+
+Tools
+- [x] Unity
 - [ ] Ruby on Rails
 - [ ] node.js
 - [ ] Angular
-**
+
+
