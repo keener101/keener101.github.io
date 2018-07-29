@@ -16,7 +16,7 @@ I have a broad range of interests:
 ### Growing Toolset
 
 There are **a lot** of languages and tools that I'm trying to learn. Here's my current progress:
-
+**
 - [x] Java (Proficient)
 - [x] C# (Intermediate)
 - [x] C (Beginner)
@@ -29,4 +29,4 @@ There are **a lot** of languages and tools that I'm trying to learn. Here's my c
 - [ ] Ruby on Rails
 - [ ] node.js
 - [ ] Angular
-
+**
