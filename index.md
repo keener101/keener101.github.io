@@ -23,6 +23,7 @@ Languages
 - [x] C (Beginner)
 - [x] R (Beginner)
 - [ ] JavaScript (*In Progress*)
+- [ ] Python
 - [ ] HTML 5
 - [ ] CSS 3
 - [ ] Ruby
