@@ -4,7 +4,7 @@ I am a [former ecologist](http://www.pnas.org/content/112/9/2812) turned CS stud
 
 ### Portfolio
 
-* [Budget Calculator](https://keener101.github.io/Budget-App-JavaScript/) made in **JavaScript**. ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
+* [Budget Calculator](https://keener101.github.io/Budget-App-JavaScript/) made in **JavaScript** (ES5). ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
 
 ### Interests
 
