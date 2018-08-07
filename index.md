@@ -6,18 +6,25 @@ I am a [former ecologist](http://www.pnas.org/content/112/9/2812) turned CS stud
 *Please read the associated README files with each project to understand my specific contributions to each project. My contributions will typically be* **bolded** *below*.
 
 
+<div><img src="/assets/recipe_img.png" alt="Recipe Website"></div>
+
+
+
 * Recipe Finder Website made in **JavaScript ES6+, using npm, webpack, and Babel**, powered by the Food2Fork API. ([README](https://github.com/keener101/Recipe-Website-Javascript/blob/master/README.md) + [repository](https://github.com/keener101/Recipe-Website-Javascript))
 
-<div><img src="/assets/recipe_img.png" alt="Recipe Website"></div> 
+
+
+<div><img src="/assets/budget_img.png" alt="Recipe Website"></div>
+
 
 
 * [Budget Calculator](https://keener101.github.io/Budget-App-JavaScript/) made in **JavaScript ES5**. ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
 
-* Two-level Cache made in **Java**. ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
+* Two-level Cache made in **Java**. ([README](https://github.com/keener101/Cache-Java/blob/master/README.md) + [repository](https://github.com/keener101/Cache-Java))
 
-* Max Heap Priority Queue made in **Java**. ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
+* Max Heap Priority Queue made in **Java**. ([README](https://github.com/keener101/Max-Heap-Priority-Queue-Java/blob/master/README.md) + [repository](https://github.com/keener101/Max-Heap-Priority-Queue-Java))
 
-* Bioinformatics BTree Tool made in **Java**. ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
+* Bioinformatics BTree Tool made in **Java**. ([README](https://github.com/keener101/Bioinformatics-Tool-BTree-Java/blob/master/README.md) + [repository](https://github.com/keener101/Bioinformatics-Tool-BTree-Java))
 
 
 
