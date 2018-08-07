@@ -10,7 +10,7 @@ I am a [former ecologist](http://www.pnas.org/content/112/9/2812) turned CS stud
 
 
 
-* Recipe Finder Website made in **JavaScript ES6+, using npm, webpack, and Babel**, powered by the Food2Fork API. ([README](https://github.com/keener101/Recipe-Website-Javascript/blob/master/README.md) + [repository](https://github.com/keener101/Recipe-Website-Javascript))
+* Recipe Finder Website made in **JavaScript ES6+, using AJAX, npm, webpack, and Babel**, powered by the Food2Fork API. ([README](https://github.com/keener101/Recipe-Website-Javascript/blob/master/README.md) + [repository](https://github.com/keener101/Recipe-Website-Javascript))
 
 
 
@@ -57,6 +57,10 @@ Languages
 - [ ] Ruby
 
 Tools
+- [x] AJAX
+- [x] npm
+- [x] Webpack
+- [x] Babel
 - [x] Unity
 - [ ] Ruby on Rails
 - [ ] node.js
