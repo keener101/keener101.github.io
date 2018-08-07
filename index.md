@@ -51,7 +51,7 @@ Languages
 - [x] JavaScript ES5, ES6+ (Intermediate) 
 - [x] C (Beginner)
 - [x] R (Beginner)
-- [ ] Python
+- [ ] Python (Currently Learning)
 - [ ] HTML 5
 - [ ] CSS 3
 - [ ] Ruby
