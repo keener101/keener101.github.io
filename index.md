@@ -8,7 +8,7 @@ I am a [former ecologist](http://www.pnas.org/content/112/9/2812) turned CS stud
 
 * Recipe Finder Website made in **JavaScript ES6+, using npm, webpack, and Babel**. ([README](https://github.com/keener101/Recipe-Website-Javascript/blob/master/README.md) + [repository](https://github.com/keener101/Recipe-Website-Javascript))
 
-![Recipe Finder]({{keener101.github.io}}/assets/recipe_img.png)
+<div><img src="/assets/recipe_img.png" alt="Recipe Website"></div> 
 
 * [Budget Calculator](https://keener101.github.io/Budget-App-JavaScript/) made in **JavaScript ES5**. ([README](https://github.com/keener101/Budget-App-JavaScript/blob/master/README.md) + [repository](https://github.com/keener101/Budget-App-JavaScript))
 
