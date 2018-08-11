@@ -188,11 +188,19 @@ section{
 .icon-big{
     display: block;
     font-size: 400%;
-    color: #426C3B;
-    width: 70%;
+    color: #426C3B; 
+}
+
+.bullet-list{
+    margin-top:  20px;
+    line-height: 145%;
     
-    margin-left: 30%;
-    
-    
-    
+}
+
+.main-pic{
+    width: 87%;
+}
+
+.section-interests{
+    background-color: #fafafa;
 }
