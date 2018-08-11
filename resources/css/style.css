@@ -6,7 +6,7 @@
 
 html {
     background-color: #fff;
-    color: #fff;
+    color: #000;
     font-family: 'Lato', 'Arial', sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -25,13 +25,48 @@ header{
     height: 100vh;
 }
 
+h1,
+h2,
+h3{
+    
+   
+    letter-spacing: 1px;
+   
+}
+
 h1{
     margin: 0;
-    font-weight: 200;
     font-size: 270%;
-    letter-spacing: 1px;
     word-spacing: 3px;
     margin-bottom: 14px;
+    color: #fff;
+    font-weight: 200;
+
+    
+}
+
+h2{
+    font-size: 180%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-bottom: 30px;
+    
+}
+
+h2:after{
+    display: block;
+    height: 2px;
+    background-color: #426C3B;
+    content: "";
+    width: 140px;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+
+h3{
+    font-size: 130%;
 }
 
 .hero-text-box{
@@ -40,6 +75,13 @@ h1{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.interest-text{
+    line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .btn:link,
@@ -65,7 +107,7 @@ h1{
     
 }
 
-c89a0a
+
 
 .btn-full:link,
 .btn-full:visited{
@@ -84,7 +126,7 @@ c89a0a
 }
 
 .btn-ghost:link,
-.btn-ghost:active{
+.btn-ghost:visited{
     border: 1px solid #E8B30C;
     color: #E8B30C;
 
@@ -125,5 +167,32 @@ c89a0a
 .main-nav li a:active{
     color: #E8B30C;
     border-bottom: 2px solid #E8B30C;
+    
+}
+
+section{
+    padding: 80px 0;
+}
+
+.box{
+    padding: 1%;
+}
+
+.box p{
+    
+    font-size: 94%;
+    line-height: 145%;
+    margin-top: 6px;
+}
+
+.icon-big{
+    display: block;
+    font-size: 400%;
+    color: #426C3B;
+    width: 70%;
+    
+    margin-left: 30%;
+    
+    
     
 }
