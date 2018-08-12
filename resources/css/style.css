@@ -56,12 +56,12 @@ h2{
 
 h2:after{
     display: block;
-    height: 2px;
+    height: 4px;
     background-color: #426C3B;
     content: "";
     width: 140px;
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 20px;
     
 }
 
@@ -211,10 +211,34 @@ section{
 
 .pfo-icon{
     margin-right: 8px;
+    color: #426C3B;
 }
 
 .box img{
     width: 100%;
     height: auto;
-    border: 1px solid #c89a0a;
+    border: 1px solid #426C3B;
 }
+
+a{
+    text-decoration: none;
+    padding-bottom: 1px;
+    
+}
+
+a:link,
+a:visited{
+    color: #426C3B;
+    border-bottom: 1px solid #426C3B;
+    transition: border 0.2s, color 0.2s;
+
+}
+
+a:active,
+a:hover{
+    color: #E8B30C;
+    border-bottom: 1px solid transparent;
+    
+
+}
+
