@@ -204,3 +204,17 @@ section{
 .section-interests{
     background-color: #fafafa;
 }
+
+.pfo-feature{
+    margin: 10px 0;
+}
+
+.pfo-icon{
+    margin-right: 8px;
+}
+
+.box img{
+    width: 100%;
+    height: auto;
+    border: 1px solid #c89a0a;
+}
