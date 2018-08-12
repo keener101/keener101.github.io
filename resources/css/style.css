@@ -242,3 +242,21 @@ a:hover{
 
 }
 
+footer{
+    padding: 40px 0;
+    background-color: #426C3B;
+    color: #fff;
+    text-decoration: none;
+}
+
+.contact{
+    list-style: none;
+}
+
+.contact li{
+    padding: 10px 10px;
+}
+
+.contact i{
+    padding-right: 10px;
+}
