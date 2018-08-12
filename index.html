@@ -3,9 +3,14 @@
 <html>
 
     <head>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <link rel=stylesheet type="text/css" href="vendors/css/normalize.css">
         <link rel=stylesheet type="text/css" href="vendors/css/Grid.css"><link rel=stylesheet type="text/css" href="vendors/css/ionicons.min.css">
         <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
+
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
         
         <title>Adam Keener's Webpage</title>
@@ -17,7 +22,7 @@
     
     <body>
       
-        <header>
+        <header id="start">
             
 <!--
         <nav>
@@ -44,9 +49,9 @@
                 Former Scientist, Current Coder
                 
             </h1>
-            <a class="btn btn-ghost" href="#">About Me</a>
-            <a class="btn btn-ghost" href="#">Interests</a>
-            <a class="btn btn-ghost" href="#">Portfolio</a>
+            <a class="btn btn-ghost" href="#about">About Me</a>
+            <a class="btn btn-ghost" href="#interests">Interests</a>
+            <a class="btn btn-ghost" href="#portfolio">Portfolio</a>
            
             
         </div>
@@ -54,7 +59,7 @@
         
         </header>
         
-        <section class="about-me">
+        <section class="about-me" id="about">
         
             <div class="row"> 
                 <h2>About Me:</h2>
@@ -97,7 +102,7 @@
         
         
         
-        <section class="section-interests">
+        <section class="section-interests" id="interests">
         
             <div class="row">
                 <h2>I am interested in:</h2> 
@@ -136,7 +141,7 @@
         </section>
         
         
-        <section class="section-portfolio">
+        <section class="section-portfolio" id="portfolio">
         
             <div class="row"><h2>Portfolio:</h2></div>
             <div class="row">
@@ -201,7 +206,7 @@
                     </div>
                     <div class="pfo-feature">
                         <i class="ion-eye pfo-icon"></i>
-                        <a href="https://keener101.github.io" target="_blank">Live View</a>
+                        <a href="#start">Live View</a>
 
                     </div>
                     
